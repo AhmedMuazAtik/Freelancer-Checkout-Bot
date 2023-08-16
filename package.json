@@ -1,0 +1,15 @@
+{
+  "name": "upwork",
+  "version": "1.0.0",
+  "description": "",
+  "main": "checkout-bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^21.0.3"
+  }
+}
